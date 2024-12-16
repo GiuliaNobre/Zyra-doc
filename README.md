@@ -20,10 +20,6 @@ Links do projeto:
 
 # 1. Desenvolvimento
 
-**1.1 Modelo de Sistema**
-
-**1.1.1 Ordem de Serviço (O.S.)**
-
 **Gestão de Informações Acadêmicas com o Zyra**
 
 Em uma instituição de grande porte, onde o volume de dados e a diversidade de atividades acadêmicas são elevados, muitos alunos enfrentam dificuldades para acessar informações importantes, como notas, horários de aula e comunicados. Para solucionar esse desafio, é essencial um sistema que centralize a gestão de informações acadêmicas, permitindo que os alunos acessem seus dados de forma simples e automatizada.
