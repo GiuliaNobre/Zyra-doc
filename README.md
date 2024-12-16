@@ -63,14 +63,14 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 
 
 
-# 4. Regras de negócio
+# 5. Regras de negócio
 
 - **RN01 – Autenticação do SIGAA:** O sistema só pode acessar e extrair dados acadêmicos do SIGAA após o login do usuário e com a devida autenticação das credenciais do SIGAA.
 - **RN02 – Preferências de Notificação:** O usuário deve definir suas preferências de notificação (WhatsApp, e-mail ou outro front-end) para receber atualizações sobre notas ou atividades acadêmicas.
 - **RN03 – Notificações Únicas:** O sistema deve enviar notificações sobre alterações nas notas ou atividades acadêmicas somente após uma modificação real nos dados armazenados. O sistema não pode enviar notificações repetidas para a mesma alteração.
 - **RN04 – Armazenamento Seguro de Dados Acadêmicos:** Todos os dados relacionados ao desempenho acadêmico dos alunos, como notas e atividades, devem ser armazenados de forma segura e podem ser acessados para consulta ou envio de notificações.
 
-# 5. Requisitos funcionais
+# 6. Requisitos funcionais
 
 **Entradas:**
 
@@ -98,7 +98,7 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 **Dados necessários:** dados acadêmicos, dados de contato do usuário, canal de comunicação escolhido.
 **Usuários:** alunos cadastrados no sistema, com preferências definidas.
 
-# 6. Requisitos não funcionais
+# 7. Requisitos não funcionais
 
 - **R.N.F. 01 - Web Scraping:** o sistema deverá ser homologado para os navegadores Google Chrome e Mozilla Firefox.
 - **R.N.F. 02 - Comunicação via WhatsApp:** A comunicação com o WhatsApp será realizada utilizando a biblioteca de terceiros Baileys.
@@ -108,7 +108,7 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 - **R.N.F. 06 - Microserviço:** O micro serviço será desenvolvido utilizando Node.js.
 - **R.N.F. 07-  Tecnologias de Apoio:** Será utilizado o conjunto de tecnologias Cheerio, Puppeteer, Pino, Cors e Helmet para o processamento, segurança e log de dados.
 
-# 7. Diagrama de Caso de Uso
+# 8. Diagrama de Caso de Uso
 
 
 
