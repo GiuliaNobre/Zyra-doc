@@ -50,9 +50,7 @@ Para resolver os desafios levantados, o sistema Zyra será desenvolvido com o fo
 **Alguns pontos importantes a se destacar são:**
 
 -   **Qual o foco de ação do software** O Zyra é um sistema de filtragem e busca de dados acadêmicos que utiliza técnicas de web scraping para extrair informações diretamente do SIGAA. Ele processará e organizará esses dados para disponibilizá-los de forma acessível e integrada aos meios de comunicação mais utilizados pelos alunos.
--   
--   **Os níveis de usuário do sistema**. Alunos: poderão visualizar suas informações acadêmicas pessoais, como notas, horários de aula, atividades e comunicados. Também receberão notificações automáticas sempre que houver atualizações nos dados cadastrados.
--   
+-   **Os níveis de usuário do sistema** Alunos: poderão visualizar suas informações acadêmicas pessoais, como notas, horários de aula, atividades e comunicados. Também receberão notificações automáticas sempre que houver atualizações nos dados cadastrados.
 -   **O que poderá ser feito no software** Consulta e visualização de dados: Os alunos poderão acessar informações importantes como notas, horários, avisos, comunicados e detalhes das turmas.
 Notificações automáticas: Envio de mensagens personalizadas via WhatsApp e e-mail para informar atualizações, como novas atividades ou alterações em horários.
 Relatórios personalizados: Os gestores terão acesso a relatórios sobre o desempenho acadêmico, participação em atividades e status de tarefas, para apoiar na tomada de decisões estratégicas.
